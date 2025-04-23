@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Leilani</h1>
-<h3 align="center">A junior at Brooklyn Steam Center working on learning Full Stack Developement</h3>
+<h3 align="center">A Senior at Brooklyn Steam Center working on learning Full Stack Developement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leidoe07&label=Profile%20views&color=0e75b6&style=flat" alt="leidoe07" /> </p>
 
